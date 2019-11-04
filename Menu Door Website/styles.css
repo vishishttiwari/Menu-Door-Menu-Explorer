@@ -1,0 +1,358 @@
+@charset "UTF-8";
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+html {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: lightgray;
+}
+body {
+	margin: 0px;
+}
+header {
+    height: 1400px;
+    width: 100%;
+    background-color: rgba(197,10,9,1.00);
+}
+h1 {
+    font-weight: 300;
+    font-size: 50px;
+    color: white;
+    padding: 40px;
+    margin: 0;
+    width: 500px;
+    height: auto;
+}
+.logo {
+    width: 1000px;
+	height: auto;
+	padding: 40px;
+}
+.icon {
+    width: 100px;
+	height: auto;
+	border-radius: 30%;
+}
+.iphoneCombination {
+	width: 800px;
+	height: auto;
+	padding: 40px;
+}
+.download {
+	width: 300px;
+	height: auto;
+	padding: 40px;
+}
+.mainInfo {
+	height: 900px;
+    width: 100%;
+}
+.whiteBackground {
+	color: black;
+	background-color: white;
+}
+.redBackground {
+	color: white;
+	background-color: rgba(197,10,9,1.00);
+}
+.mainContent {
+	padding-top: 50px;
+	width: 1200px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.mainWritten {
+	flex: 0 0 49%;
+	width: 200px;
+	padding: 50px;
+	padding-top: 80px;
+	text-align: left;
+}
+.mainHeading {
+	font-weight: 300;
+    font-size: 80px;
+}
+.mainDescription {
+	font-weight: 200;
+    font-size: 30px;
+	padding-top: 100px;
+}
+.mainImage {
+	height: auto;
+    width: 500px;
+}
+.bottom {
+	background-color: rgba(197,10,9,1.00);
+	color: white;
+}
+.bottomContent {
+	width: 1200px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.downloadImageBottom {
+	padding-top: 70px;
+	width: 700px;
+	text-align: left;
+}
+.downloadBottom {
+	width: 300px;
+	height: auto;
+	padding: 40px;
+}
+.contact {
+	padding-top: 50px;
+	width: 500px;
+	text-decoration: none;
+}
+.contactTitle {
+	font-weight: 400;
+    font-size: 50px;
+	text-align: left;
+}
+.contactEmail {
+	font-weight: 300;
+    font-size: 30px;
+	text-decoration: none;
+	color: white;
+	text-align: left;
+}
+.privacy {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-weight: 400;
+    font-size: 50px;
+	text-decoration: none;
+	color: white;
+	text-align: left;
+}
+.copyright {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: white;
+	color: black;
+	font-size: 25px;
+}
+
+
+/* Small Laptop View */
+@media (min-width: 769px) and (max-width: 1200px){
+	header {
+		height: 1200px;
+	}
+	h1 {
+		font-size: 40px;
+	}
+	.logo {
+		width: 600px;
+	}
+	.iphoneCombination {
+		width: 600px;
+	}
+	.mainInfo {
+		height: 600px;
+		width: 100%;
+	}
+	.mainContent {
+		width: 700px;
+	}
+	.mainWritten {
+		padding-top: 40px;
+		flex: 0 0 40%;
+	}
+	.mainHeading {
+		font-weight: 300;
+		font-size: 50px;
+	}
+	.mainDescription {
+		font-size: 20px;
+		padding-top: 20px;
+	}
+	.mainImage {
+		width: 300px;
+	}
+	.bottomContent {
+		width: 700px;
+	}
+	.downloadImageBottom {
+		padding-top: 50px;
+		width: 400px;
+	}
+	.downloadBottom {
+		width: 200px;
+	}
+	.contact {
+		width: 300px;
+	}
+	.contactTitle {
+		font-size: 40px;
+	}
+	.contactEmail {
+		font-size: 20px;
+	}
+	.privacy {
+		font-size: 40px;
+	}
+	.copyright {
+		font-size: 20px;
+	}
+}
+
+/* Tablet View */
+@media (min-width: 401px) and (max-width: 768px){
+	header {
+		height: 700px;
+	}
+	h1 {
+		font-size: 22px;
+		width: 300px;
+	}
+	.logo {
+		width: 350px;
+		height: auto;
+		padding: 10px;
+	}
+	.icon {
+		width: 80px;
+	}
+	.iphoneCombination {
+		width: 350px;
+	}
+	.download {
+		padding-top: 0px;
+		width: 200px;
+	}
+	.mainInfo {
+		height: 320px;
+		width: 100%;
+	}
+	.mainContent {
+		width: 400px;
+		padding-top: 20px;
+	}
+	.mainWritten {
+		padding-top: 0px;
+		flex: 0 0 32%;
+		width: 100px;
+	}
+	.mainHeading {
+		font-weight: 500;
+		font-size: 22px;
+	}
+	.mainDescription {
+		font-size: 15px;
+		padding-top: 10px;
+	}
+	.mainImage {
+		width: 170px;
+	}
+	.bottomContent {
+		width: 400px;
+	}
+	.download {
+		width: 130px;
+	}
+	.downloadImageBottom {
+		padding-top: 50px;
+		width: 0px;
+	}
+	.downloadBottom {
+		width: 00px;
+	}
+	.contact {
+		width: 200px;
+		padding-left: 30px;
+	}
+	.contactTitle {
+		font-size: 20px;
+	}
+	.contactEmail {
+		font-size: 15px;
+	}
+	.privacy {
+		font-size: 20px;
+	}
+	.copyright {
+		font-size: 15px;
+	}
+}
+
+/* Mobile View */
+@media (max-width: 400px){
+	header {
+		height: 630px;
+	}
+	h1 {
+		font-size: 22px;
+		width: 200px;
+	}
+	.logo {
+		width: 300px;
+		height: auto;
+		padding: 10px;
+	}
+	.icon {
+		width: 70px;
+	}
+	.iphoneCombination {
+		width: 250px;
+	}
+	.download {
+		padding-top: 0px;
+		width: 200px;
+	}
+	.mainInfo {
+		height: 290px;
+		width: 100%;
+	}
+	.mainContent {
+		width: 330px;
+		padding-top: 20px;
+	}
+	.mainWritten {
+		padding-top: 0px;
+		flex: 0 0 31%;
+		width: 250px;
+	}
+	.mainHeading {
+		font-weight: 500;
+		font-size: 20px;
+	}
+	.mainDescription {
+		font-weight: 400;
+		font-size: 11px;
+		padding-top: 10px;
+	}
+	.mainImage {
+		width: 127px;
+	}
+	.bottomContent {
+		width: 330px;
+	}
+	.downloadImageBottom {
+		padding-top: 90px;
+		width: 0px;
+	}
+	.downloadBottom {
+		width: 0px;
+	}
+	.contact {
+		width: 150px;
+		padding-left: 30px;
+	}
+	.contactTitle {
+		font-size: 20px;
+	}
+	.contactEmail {
+		font-size: 15px;
+	}
+	.privacy {
+		font-size: 20px;
+	}
+	.copyright {
+		font-size: 15px;
+	}
+}

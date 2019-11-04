@@ -1,0 +1,167 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+header {
+    height: 240px;
+    width: 100%;
+    background-color: rgba(197,10,9,1.00);
+}
+.logo {
+    width: 400px;
+	height: auto;
+	padding: 20px;
+}
+.download {
+	width: 300px;
+	height: auto;
+	padding: 40px;
+}
+.bottom {
+	background-color: rgba(197,10,9,1.00);
+	color: white;
+}
+.bottomContent {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 1200px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.downloadImageBottom {
+	width: 700px;
+	text-align: left;
+}
+.downloadBottom {
+	padding-left: 20px;
+	width: 300px;
+	height: auto;
+}
+.contact {
+	width: 500px;
+	text-decoration: none;
+}
+.contactTitle {
+	font-weight: 400;
+    font-size: 50px;
+	text-align: left;
+}
+.contactEmail {
+	font-weight: 300;
+    font-size: 30px;
+	text-decoration: none;
+	color: white;
+	text-align: left;
+}
+.copyright {
+	padding-top: 5px;
+	padding-bottom: 0px;
+	background-color: white;
+	color: black;
+	font-size: 25px;
+}
+@media (max-width: 400px){
+	header {
+		height: 170px;
+	}
+	.logo {
+		width: 300px;
+	}
+	.download {
+		width: 130px;
+	}
+	.bottomContent {
+		width: 330px;
+	}
+	.downloadImageBottom {
+		width: 0px;
+	}
+	.downloadBottom {
+		width: 0px;
+	}
+	.contact {
+		width: 150px;
+		padding-left: 30px;
+	}
+	.contactTitle {
+		font-size: 20px;
+	}
+	.contactEmail {
+		font-size: 15px;
+	}
+	.privacy {
+		font-size: 20px;
+	}
+	.copyright {
+		font-size: 15px;
+	}
+}
+
+@media (min-width: 401px) and (max-width: 768px){
+	header {
+		height: 170px;
+	}
+	.logo {
+		width: 300px;
+	}
+	.bottomContent {
+		width: 400px;
+	}
+	.download {
+		width: 130px;
+	}
+	.downloadImageBottom {
+		width: 200px;
+	}
+	.downloadBottom {
+		width: 130px;
+	}
+	.contact {
+		width: 200px;
+	}
+	.contactTitle {
+		font-size: 20px;
+	}
+	.contactEmail {
+		font-size: 15px;
+	}
+	.privacy {
+		font-size: 20px;
+	}
+	.copyright {
+		font-size: 15px;
+	}
+}
+
+@media (min-width: 769px) and (max-width: 1200px){
+	.bottomContent {
+		width: 700px;
+	}
+	.downloadImageBottom {
+		width: 400px;
+	}
+	.downloadBottom {
+		width: 200px;
+	}
+	.contact {
+		width: 300px;
+	}
+	.contactTitle {
+		font-size: 40px;
+	}
+	.contactEmail {
+		font-size: 20px;
+	}
+	.privacy {
+		font-size: 40px;
+	}
+	.copyright {
+		font-size: 20px;
+	}
+}
