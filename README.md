@@ -2,6 +2,11 @@
 
 ## Explore any Menu in the world! ##
 
+<p align="center">
+  <img src="https://github.com/vishishttiwari/Menu-Door-Menu-Explorer/blob/master/Extra/Icon/Icon-1024.png" height ="300" width="300">
+
+
+
 
 With the largest selection of dishes, Menu Door helps you learn every detail about every dish on the menu.
 
