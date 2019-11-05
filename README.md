@@ -31,7 +31,7 @@ FEATURES:
 - Learn to pronounce any dish before ordering it.
 
 <p align="center">
-  <img src="https://github.com/vishishttiwari/Menu-Door-Menu-Explorer/blob/master/Extra/App_Screenshots_And_Previews/iPhone10/ScreenShot1.png" height ="300" width="400">
+  <img src="https://github.com/vishishttiwari/Menu-Door-Menu-Explorer/blob/master/Extra/App_Screenshots_And_Previews/iPhone10/ScreenShot1.png" height ="1000" width="400">
   <img src="https://github.com/vishishttiwari/Menu-Door-Menu-Explorer/blob/master/Extra/App_Screenshots_And_Previews/iPhone10/ScreenShot2.png" height ="300" width="400">
   <img src="https://github.com/vishishttiwari/Menu-Door-Menu-Explorer/blob/master/Extra/App_Screenshots_And_Previews/iPhone10/ScreenShot3.png" height ="300" width="400">
   <img src="https://github.com/vishishttiwari/Menu-Door-Menu-Explorer/blob/master/Extra/App_Screenshots_And_Previews/iPhone10/ScreenShot4.png" height ="300" width="400">
