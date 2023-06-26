@@ -14,13 +14,13 @@ With the largest selection of dishes, Menu Door helps you learn every detail abo
 Point the camera at a menu and see every dish unfold in front of your eyes.
 
 
-Have you ordered something at a restaurant and regretted it later? With Food Menu, look at photos of every dish at every angle before making your decision.
+Have you ordered something at a restaurant and regretted it later? With Food Menu, look at photos of every dish from every angle before making your decision.
 
 
 Do you have food allergies and are unsure about the ingredients of dishes at the restaurant? With Menu Door, you can learn about the ingredients of each dish on any menu.
 
 
-Are you a fitness freak and struggle with keeping up the nutritional targets while you are out eating with your friends? With Menu Door, you can learn about the nutritional content of every dish on the menu with the touch of a button.
+Are you a fitness freak and struggling with keeping up the nutritional targets while you are out eating with your friends? With Menu Door, you can learn about the nutritional content of every dish on the menu with the touch of a button.
 
 
 Thinking about food but not at a restaurant? Besides searching menus, you can also search for a specific dish and we will let you know about the ingredients, nutritional content and how the dish looks.
