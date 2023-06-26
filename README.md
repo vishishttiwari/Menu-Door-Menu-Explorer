@@ -26,7 +26,7 @@ Are you a fitness freak and struggle with keeping up the nutritional targets whi
 Thinking about food but not at a restaurant? Besides searching menus, you can also search for a specific dish and we will let you know about the ingredients, nutritional content and how the dish looks.
 
 
-###FEATURES:
+### FEATURES: ###
 * Scan any menu in the world and tap any dish to learn more about it.
 * Search for dishes to learn more about them.
 * Learn about the nutritional content, ingredients, etc.
