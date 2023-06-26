@@ -26,14 +26,13 @@ Are you a fitness freak and struggle with keeping up the nutritional targets whi
 Thinking about food but not at a restaurant? Besides searching menus, you can also search for a specific dish and we will let you know about the ingredients, nutritional content and how the dish looks.
 
 
-FEATURES:
-
-- Scan any menu in the world and tap any dish to learn more about it.
-- Search for dishes to learn more about them.
-- Learn about the nutritional content, ingredients, etc.
-- See how each dish looks before ordering.
-- Learn in detail about each ingredient such as the nutritional value and more.
-- Learn to pronounce any dish before ordering it.
+###FEATURES:
+* Scan any menu in the world and tap any dish to learn more about it.
+* Search for dishes to learn more about them.
+* Learn about the nutritional content, ingredients, etc.
+* See how each dish looks before ordering.
+* Learn in detail about each ingredient such as the nutritional value and more.
+* Learn to pronounce any dish before ordering it.
 
 <p align="center">
   <img src="https://github.com/vishishttiwari/Menu-Door-Menu-Explorer/blob/master/Extra/App_Screenshots_And_Previews/iPhone10/ScreenShot1.png" height ="800" width="400">
